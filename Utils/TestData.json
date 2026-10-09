@@ -1,0 +1,37 @@
+{
+
+"signupdata":
+{
+    "newusername":"Summer68",
+    "newpassword":"Winter@3132"
+},
+
+"logindata":
+{
+    "login_user":"Summer65",
+    "login_password":"Winter@123",
+    "login_invaliduser":"&Summer65",
+    "login_invalidpwd":"Winter213"
+},
+
+"cartdata":
+{
+    "phone_name":"Sony xperia z5",
+    "monitor_name":"ASUS Full HD"
+},
+
+"purchasedata":
+{
+    "name":"Summer68",
+    "country":"India",
+    "city":"Kochi",
+    "creditcard":"212662636125",
+    "month":"May",
+    "year":"2026"
+}
+}
+    
+
+    
+    
+    
